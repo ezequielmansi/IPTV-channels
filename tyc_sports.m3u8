@@ -1,3 +1,8 @@
 #EXTM3U
-#EXTINF:-1, TyC Sports
+#EXT-X-VERSION:3
+#EXT-X-STREAM-INF:BANDWIDTH=934000,RESOLUTION=640x360,CODECS="mp4a.40.2,avc1.640016"
+https://d3awnlgqz0szay.cloudfront.net/out/v1/b841c366cbe540e6a106c3ba83e5c8d6/index.m3u8
+#EXT-X-STREAM-INF:BANDWIDTH=1894000,RESOLUTION=960x540,CODECS="mp4a.40.2,avc1.64001f"
+https://d3awnlgqz0szay.cloudfront.net/out/v1/b841c366cbe540e6a106c3ba83e5c8d6/index.m3u8
+#EXT-X-STREAM-INF:BANDWIDTH=2594000,RESOLUTION=1280x720,CODECS="mp4a.40.2,avc1.640020"
 https://d3awnlgqz0szay.cloudfront.net/out/v1/b841c366cbe540e6a106c3ba83e5c8d6/index.m3u8
